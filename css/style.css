@@ -1,0 +1,171 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+h1 {
+font-weight: 800;
+color: #5BBC2E;
+text-transform: uppercase;
+padding: 45px;
+text-align: center;
+}
+
+h1 span {
+    color: black;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.navbar {
+    background: #5BBC2E;
+}
+
+.nav-link {
+    font-size: 13px;
+    font-weight: 600;
+    color: white;
+    padding-left: 60px;
+    padding-right: 30px;
+}
+
+.login {
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: #4b9e25;
+}
+
+.container>div>div>p {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+} 
+
+.promo {
+    background-color: #F9F9F9;
+
+}
+
+.row {
+ justify-content: center;
+ margin-top: 35px;
+}
+
+.container>div>p {
+    font-size: 12px;
+}
+
+.container>div>div>p {
+    font-size: 12px;
+}
+
+.box{
+    width: 22%;
+    display: inline-flex    ;
+    flex-direction:column;
+    align-items: center;
+}
+
+h5 {
+    color: #5BBC2E;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.container>div>div>img {
+    padding: 10px;
+    width: 33%;
+}
+
+.promo-2 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.promo-2 img {
+    width: 50%;
+}
+
+h4 {
+    font-size: 30px;
+    color: #8d8d8d;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 30px;
+}
+
+h4 span {
+    color: #5bbc2e;
+}
+
+p {
+    color: #8d8d8d;
+}
+
+.promo-3 {
+    background-color: #F9F9F9;
+    margin-top: 130px;
+}
+
+.promo-3 img {
+    width: 40%;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+   list-style-image: url(/img/arrow.png);
+  }
+
+  .row-1 {
+      margin-bottom: 100px;
+  }
+
+  .heading{
+      text-align: center;
+  }
+  .col-3 {
+      text-align: center;
+  }
+
+  .card {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+  }
+
+  .btn-green {
+      background-color: #5BBC2E;
+      display: inline-block;
+      color: #fff;
+      border: 3px solid
+      #3c67e3;
+      border-radius: 10px;
+  }
+
+  .btn-blue {
+      background-color: rgb(14, 125, 230);
+  }
+
+  .btn-yellow {
+      background-color: rgb(236, 203, 16);
+  }
+
+  .btn-purple {
+      background-color: rgb(172, 13, 172);
+  }
+
+  footer {
+      height: 100px;
+      color: #e0e0e0;
+      background-color: #141414;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 19px 30px;
+  }
